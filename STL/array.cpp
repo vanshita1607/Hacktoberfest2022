@@ -30,3 +30,4 @@ int main(){
     std::cin.get();
     return 0;
 }
+//complexity:O(n)
